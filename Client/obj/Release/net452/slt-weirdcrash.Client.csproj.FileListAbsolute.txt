@@ -1,0 +1,9 @@
+G:\SLT\gta\c#\slt-weirdcrash\Client\bin\Release\net452\slt-weirdcrash.Client.net.dll
+G:\SLT\gta\c#\slt-weirdcrash\Client\bin\Release\net452\CitizenFX.Core.Client.dll
+G:\SLT\gta\c#\slt-weirdcrash\Client\obj\Release\net452\slt-weirdcrash.Client.csproj.AssemblyReference.cache
+G:\SLT\gta\c#\slt-weirdcrash\Client\obj\Release\net452\slt-weirdcrash.Client.GeneratedMSBuildEditorConfig.editorconfig
+G:\SLT\gta\c#\slt-weirdcrash\Client\obj\Release\net452\slt-weirdcrash.Client.AssemblyInfoInputs.cache
+G:\SLT\gta\c#\slt-weirdcrash\Client\obj\Release\net452\slt-weirdcrash.Client.AssemblyInfo.cs
+G:\SLT\gta\c#\slt-weirdcrash\Client\obj\Release\net452\slt-weirdcrash.Client.csproj.CoreCompileInputs.cache
+G:\SLT\gta\c#\slt-weirdcrash\Client\obj\Release\net452\slt-weirdcrash.Client.csproj.CopyComplete
+G:\SLT\gta\c#\slt-weirdcrash\Client\obj\Release\net452\slt-weirdcrash.Client.net.dll

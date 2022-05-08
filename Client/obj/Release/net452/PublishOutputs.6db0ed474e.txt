@@ -1,0 +1,2 @@
+G:\SLT\gta\c#\slt-weirdcrash\Client\bin\Release\net452\publish\slt-weirdcrash.Client.net.dll
+G:\SLT\gta\c#\slt-weirdcrash\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll

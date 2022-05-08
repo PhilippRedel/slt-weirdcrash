@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb8c500b-5c6c-42d6-9c62-9900c3152272": {
+      "ProjectGuid": "eb8c500b-5c6c-42d6-9c62-9900c3152272",
+      "DisplayName": "slt-weirdcrash.Client",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

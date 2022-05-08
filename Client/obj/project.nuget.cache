@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrMGRXcw2XTppEo8pGYCb7Sm+MKvK8fPl3AhoRYQYvOYreULI7arg3sc6FN6ER8mu9Rj/QT5I6bhtM0idP7e7g==",
+  "success": true,
+  "projectFilePath": "G:\\SLT\\gta\\c#\\slt-weirdcrash\\Client\\slt-weirdcrash.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Philipp\\.nuget\\packages\\citizenfx.core.client\\1.0.5546\\citizenfx.core.client.1.0.5546.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
